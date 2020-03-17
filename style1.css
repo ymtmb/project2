@@ -1,27 +1,32 @@
 h1 {
 	text-align: center;
-	font-family: 'Courgette', cursive;
+	font-family: 'Playfair Display', serif;
+	background-color: #151414;
+	border-radius: 75%;
+	width: 500px;
+	margin: 30px auto;
+	color:white;
+
 }
 .right {
 	text-align: right;
 }
-p{
-	font-family: 'Acme', sans-serif;
+p	{
+	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
+	font-weight: bold;
 }
-h3 {
-	background-color: #df4040;
-	font-family: 'Courgette', cursive;
+h3{
+	font-family: 'Playfair Display', serif;
 }
 h2{
-	font-family: 'Courgette', cursive;
-	border-radius: 75%;
-	width: 500px;
-	margin: 30px auto
+	background-color: #151414;
+	font-family: 'Playfair Display', serif;
+	color: white;
 } 
 li {
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Roboto', sans-serif;
 }
 body {
-	background-color: #b2cbab;
+	background-color: #5cddf9;
 }
