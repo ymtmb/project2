@@ -10,11 +10,14 @@ p{
 	font-size: 20px;
 }
 h3 {
-	background-color: #b0e4f5;
+	background-color: #df4040;
 	font-family: 'Courgette', cursive;
 }
-h2, p {
+h2{
 	font-family: 'Courgette', cursive;
+	border-radius: 75%;
+	width: 500px;
+	margin: 30px auto
 } 
 li {
 	font-family: 'Bebas Neue', cursive;
