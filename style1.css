@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+}
+.right {
+	text-align: right;
+}
+p{
+	font-family: 'Acme', sans-serif;
+	font-size: 20px;
+}
+h3 {
+	background-color: #b0e4f5;
+	font-family: 'Rancho', cursive;
+}
+h2, p {
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+} 
