@@ -1,7 +1,6 @@
 h1 {
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Courgette', cursive;
 }
 .right {
 	text-align: right;
@@ -12,9 +11,14 @@ p{
 }
 h3 {
 	background-color: #b0e4f5;
-	font-family: 'Rancho', cursive;
+	font-family: 'Courgette', cursive;
 }
 h2, p {
-	font-family: 'Roboto', sans-serif;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Courgette', cursive;
 } 
+li {
+	font-family: 'Bebas Neue', cursive;
+}
+body {
+	background-color: #b2cbab;
+}
