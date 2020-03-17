@@ -20,12 +20,8 @@ h1 {
 	color:white;
 }
 
-h3 {
+h3,li {
 	color:white; 
-	font-family: 'Abril Fatface', cursive
-}
-li {
-	color:white;
 	font-family: 'Abril Fatface', cursive
 }
 p {
